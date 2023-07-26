@@ -1,3 +1,5 @@
+POLITYKA PRYWATNOŚCI
+
 **Wstęp**
 Niniejsza polityka prywatności ma na celu wyjaśnienie, jakie informacje zbieramy w aplikacji "Będę Go Uwielbiać" oraz w jaki sposób jest ona wykorzystywana. Aplikację "Będę Go Uwielbiać" udostępnia Gliwickie Stowarzyszenie Biblijne, i jest ona całkowicie darmowa, bez jakichkolwiek ograniczeń wiekowych oraz bez zbierania jakichkolwiek danych osobowych. Korzystając z naszej aplikacji, nie jesteś zobowiązany do podawania żadnych informacji osobistych.
 
