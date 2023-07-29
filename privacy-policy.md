@@ -30,6 +30,6 @@ Jeśli masz jakiekolwiek pytania dotyczące naszej Polityki Prywatności, prosim
 
 **Gliwickie Stowarzyszenie Biblijne**
 
-E-mail: sitekaaron@gmail.com
+E-mail: ziemiagoszen@gmail.com
 
 Dziękujemy za korzystanie z aplikacji "Będę Go Uwielbiać"!
