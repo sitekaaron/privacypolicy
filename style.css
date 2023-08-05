@@ -1,0 +1,83 @@
+/* Styl nagłówków */
+h1 {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #555;
+    font-size: 22px;
+    margin-bottom: 8px;
+  }
+  
+  /* Styl akapitów */
+  p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 12px;
+  }
+  
+  /* Styl kontaktu */
+  strong {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  /* Styl listy kontaktów */
+  p:not(:last-child) {
+    margin-bottom: 4px;
+  }
+  
+  /* Styl sekcji */
+  body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Dodatkowy margines dla akapitów w sekcjach */
+  body > p {
+    margin-top: 12px;
+  }
+  
+  /* Styl linków */
+  a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Stylowanie przycisków */
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Stylowanie formularzy (opcjonalne) */
+  input[type="text"],
+  input[type="email"] {
+    padding: 6px 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Stylowanie sekcji (opcjonalne) */
+  section {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+  }
+  
